@@ -1346,6 +1346,10 @@ body {
   }
 }
 @media (max-width: 30.06125em) {
+
+  .swiper-wrapper { 
+    justify-content: inherit;
+  }
   .scroll {
     bottom: 8.75rem;
   }
