@@ -1279,7 +1279,7 @@ body {
 }
 @media (max-width: 64.06125em) {
   .cloud {
-    top: 16%;
+    top: 12%;
   }
 }
 @media (max-width: 56.31125em) and (max-height: 30.06125rem) {
@@ -1346,6 +1346,13 @@ body {
   }
 }
 @media (max-width: 30.06125em) {
+
+  .pack-slide__wr.slide-1-pack {
+    margin-right: 0;
+  }
+  .pack-slide__wr.slide-3-pack {
+    margin-left: 0;
+  }
 
   .swiper-wrapper { 
     justify-content: inherit;
