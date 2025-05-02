@@ -1047,7 +1047,7 @@ body {
     bottom: 4.375rem;
   }
   .scroll {
-    bottom: 10.625rem;
+    bottom: 4.125rem;
   }
   .cloud {
     right: 23%;
@@ -1509,7 +1509,7 @@ body {
     width: clamp(25rem, 21.8686197917rem + 10.4166666667vw, 31.25rem);
   }
   .chips__btn p {
-    font-size: clamp(1.875rem, 1.6871171875rem + 0.625vw, 2.25rem);
+    font-size: clamp(1.875rem, 1.6871171875rem + 0.625vw, 1.55rem);
   }
   .chips__btn-img {
     width: 19.25rem;
