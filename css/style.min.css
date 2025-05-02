@@ -1039,15 +1039,16 @@ body {
 
 @media (min-width: 23.49875em) {
   .loaded .logo {
-    top: 2.75rem;
+    top: 1.75rem;
   }
 }
 @media (min-width: 30.06125em) {
   .social {
-    bottom: 4.375rem;
+    bottom: 2.075rem;
   }
   .scroll {
-    bottom: 4.125rem;
+    bottom: 5.5rem;
+    z-index: 2;
   }
   .cloud {
     right: 23%;
@@ -1146,10 +1147,10 @@ body {
 }
 @media (min-width: 37.56125em) {
   .sec-01__button.swiper-button-prev {
-    left: 3.125rem;
+    display: none;
   }
   .sec-01__button.swiper-button-next {
-    right: 3.125rem;
+    display: none;
   }
 }
 @media (min-width: 51.31125em) {
@@ -1279,7 +1280,7 @@ body {
 }
 @media (max-width: 64.06125em) {
   .cloud {
-    top: 12%;
+    top: 14%;
   }
 }
 @media (max-width: 56.31125em) and (max-height: 30.06125rem) {
@@ -1287,7 +1288,7 @@ body {
     max-width: 9.375rem;
   }
   .loaded .logo {
-    top: 0.3125rem;
+    top: 1.3125rem;
   }
   .loaded .social {
     bottom: 0.625rem;
@@ -1358,7 +1359,7 @@ body {
     justify-content: inherit;
   }
   .scroll {
-    bottom: 8.75rem;
+    bottom: 6.75rem;
   }
   .scroll__ic img {
     height: 3.25rem;
@@ -1378,7 +1379,6 @@ body {
   .sec-01__cloud .cloud__img-big {
     width: 82.05vw;
   }
-
 
   .cloud__sm {
     width: 9.375rem;
@@ -1419,7 +1419,7 @@ body {
     width: 25rem;
   }
   .chips__btn {
-    bottom: 3.75rem;
+    bottom: 2.55rem;
   }
   .chips__btn p {
     font-size: 1.875rem;
@@ -1462,7 +1462,7 @@ body {
 }
 @media (max-width: 23.49875em) {
   .loaded .logo {
-    top: 0.625rem;
+    top: 1.625rem;
   }
   .social {
     bottom: 1.25rem;
