@@ -1372,13 +1372,16 @@ body {
   }
 
   .sec-01__cloud.cloud {
-    right: 50%;
-    transform: translate(-25%, -50%);
+    top: 14%;
+    right: inherit;
+    left: 50%;
+    transform: translate(-50%, 0) scale(1);
+    width: fit-content;
+    height: 88%;
   }
-  .sec-01__cloud .cloud__img-big {
-    width: 82.05vw;
+  .sec-01__cloud .cloud__img-big { 
+    width: 16.5rem;
   }
-
   .cloud__sm {
     width: 9.375rem;
   }
